@@ -1,0 +1,8 @@
+weather:
+  sdk:
+    enabled: true
+    api-key: YOUR_OPENWEATHER_API_KEY
+    mode: POLLING
+    cache-size: 10
+    cache-ttl: 10m
+    polling-interval: 1m
